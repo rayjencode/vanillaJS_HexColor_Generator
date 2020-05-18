@@ -1,0 +1,21 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.hexBtn {
+    padding: 0.8rem 0.5rem;
+    outline: none;
+    border: none;
+    background-color: #e2e2e2;
+    cursor: pointer;
+}
+.hex {
+    font-size: 3rem;
+}
